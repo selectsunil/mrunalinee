@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.deepOrange,
       ),
-      home: new MyHomePage(title: 'Mrunalinee'),
+      home: new MyHomePage(title: 'Mrunalinee 123'),
       debugShowCheckedModeBanner: false,
     );
   }
